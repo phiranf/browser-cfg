@@ -32,3 +32,10 @@ A collection of things other people made and I use.
 
 `gfx.downloadable_fonts.enabled = false` Disable custom fonts such as google fonts
 `privacy.clearOnShutdown.cookies = true` Remove all cookies on exit
+
+Default search engine: [DuckDuckGo](https://duckduckgo.com/)
+
+
+---
+
+Any suggestions? Please create a [Issue](https://github.com/R4nf7/browser-addon-list/issues/new).
