@@ -16,7 +16,7 @@ A collection of things other people made and I use.
 
 [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
 
-> rewriting all requests [..] to HTTPS
+> rewriting all requests [...] to HTTPS
 
 [Lightbeam](https://addons.mozilla.org/firefox/addon/lightbeam/)
 
@@ -25,6 +25,14 @@ A collection of things other people made and I use.
 [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/) 
 
 > enables night mode creating dark themes for websites on the fly
+
+[SoundFixer](https://addons.mozilla.org/en-US/firefox/addon/soundfixer/)
+
+> fix annoying sound problems [...] like audio in one channel only, too quiet or too loud
+
+[DF YouTube](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/)
+
+> Disable autoplay, remove sidebar, hide feed, comments, and more.
 
 ## Settings
 
